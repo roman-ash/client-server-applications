@@ -1,7 +1,6 @@
 word1 = 'разработка'
 word2 = 'cокет'
 word3 = 'декоратор'
-
 word1_bytes = word1.encode('utf-8')
 print(word1_bytes)
 print(type(word1_bytes))
