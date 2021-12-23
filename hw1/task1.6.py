@@ -1,3 +1,3 @@
-with open('test_file.txt', encoding='utf-8') as f_n:
-    for el in f_n:
+with open('test_file.txt', encoding='utf-8') as f:
+    for el in f:
         print(el)
